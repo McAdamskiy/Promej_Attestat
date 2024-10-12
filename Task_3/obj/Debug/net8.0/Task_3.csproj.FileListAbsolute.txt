@@ -1,0 +1,14 @@
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\bin\Debug\net8.0\Task_3.exe
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\bin\Debug\net8.0\Task_3.deps.json
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\bin\Debug\net8.0\Task_3.runtimeconfig.json
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\bin\Debug\net8.0\Task_3.dll
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\bin\Debug\net8.0\Task_3.pdb
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\obj\Debug\net8.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfoInputs.cache
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfo.cs
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\obj\Debug\net8.0\Task_3.csproj.CoreCompileInputs.cache
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\obj\Debug\net8.0\Task_3.dll
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\obj\Debug\net8.0\refint\Task_3.dll
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\obj\Debug\net8.0\Task_3.pdb
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\obj\Debug\net8.0\Task_3.genruntimeconfig.cache
+E:\Marco\C_Sharp_course\Attestation\Prom_At\Prom_At_1\Task_3\obj\Debug\net8.0\ref\Task_3.dll
